@@ -1,0 +1,12 @@
+# Local credentials
+.env
+
+# Generated reports from your live CML controller
+reports/cml_inventory.json
+
+# Python / VS Code
+__pycache__/
+*.py[cod]
+.venv/
+.vscode/
+.pytest_cache/
