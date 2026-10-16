@@ -84,7 +84,7 @@ flowchart LR
 python -m pip install -r requirements.txt
 ```
 
-**3. Create `.env` with CML controller URL, lab ID, username, and password:
+**3. Create `.env` with CML controller URL, lab ID, username, and password**:
 
 ```dotenv
 CML_BASE_URL=https://cml-controller/api/v0
