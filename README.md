@@ -111,8 +111,6 @@ streamlit run app.py
 
 Open the local address displayed in the terminal (typically `http://localhost:8501`). 
 
-## Sample JSON output
+## Dashboard Preview
 
-[`reports/sample_inventory.json`](reports/sample_inventory.json).
-
-`"unassigned"` means the IP endpoint returned an empty IPv4 list; `"unavailable"` means it did not report that interface. Neither value indicates whether a port is administratively up or down.
+![Cisco CML Inventory dashboard](docs/dashboard-preview.png)
